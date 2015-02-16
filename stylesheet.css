@@ -1,0 +1,44 @@
+body {
+	margin-right: 150px;
+	margin-left: 150px;
+}
+ul#header li {
+	list-style-type: none;
+	color: blue;
+	display: inline;
+}
+#header {
+	height: 5%;
+	width: 100%;
+	background-color: yellow;
+}
+#mainbanner {
+	background-color: red;
+	height: 30%;
+	width: 100%;
+}
+#space {
+	height: 2%;
+	width: 100%;
+	background-color: black;
+	display: block;
+}
+#left {
+	background-color: black;
+	height:30%;
+	width: 33%;
+	display: inline-block;
+}
+#center {
+	background-color: blue;
+	height: 30%;
+	width: 33%;
+	display: inline-block;
+}
+#right {
+	background-color: yellow;
+	height: 30%;
+	width: 33%;
+	display: inline-block;
+	position: right;
+}
