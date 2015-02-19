@@ -13,9 +13,10 @@ ul#header li {
 	background-color: yellow;
 }
 #mainbanner {
-	background-color: red;
+/*	background-color: red;*/
 	height: 30%;
 	width: 100%;
+	background-image: url("images/tree.jpg");
 }
 #space {
 	height: 2%;
