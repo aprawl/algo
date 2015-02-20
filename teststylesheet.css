@@ -1,0 +1,13 @@
+ul li {
+	list-style-type: none;
+	color: orange;
+	display: block;
+	width: 110px;
+	float: left;
+}
+
+/*#testheader {
+	height: 5%;
+	width: 100%;
+	background-color: orange;
+}*/
