@@ -2,10 +2,13 @@ body {
 	margin-right: 150px;
 	margin-left: 150px;
 }
-ul#header li {
+
+ul li {
 	list-style-type: none;
 	color: blue;
-	display: inline;
+	display: block;
+	width: 110px;
+	float: left;
 }
 #header {
 	height: 5%;
@@ -21,7 +24,7 @@ ul#header li {
 #space {
 	height: 2%;
 	width: 100%;
-	background-color: black;
+	background-color: #ff00ff;
 	display: block;
 }
 #left {
