@@ -2,7 +2,6 @@ body {
 	margin-right: 150px;
 	margin-left: 150px;
 }
-
 ul li {
 	list-style-type: none;
 	color: blue;
@@ -10,50 +9,40 @@ ul li {
 	width: 110px;
 	float: left;
 }
-#header {
-	height: 5%;
-	width: 100%;
-	background-color: yellow;
-}
-/*#testheader {
-	height: 5%;
-	width: 10000px;
-	background-color: orange;
-}*/
 #mainbanner {
-/*	background-color: red;*/
-	height: 30%;
-	width: 100%;
+	background-color: red;
+	height: 200px;
+	width: 1000px;
 	background-image: url("images/tree.jpg");
 }
 #space {
-	height: 2%;
-	width: 100%;
+	height: 10px;
+	width: 1000px;
 	background-color: #ff00ff;
 	display: block;
 }
 #left {
 	background-color: black;
-	height:30%;
-	width: 33%;
+	height:200px;
+	width: 320px;
 	display: inline-block;
 }
 #center {
 	background-color: blue;
-	height: 30%;
-	width: 33%;
+	height: 200px;
+	width: 320px;
 	display: inline-block;
 }
 #right {
 	background-color: yellow;
-	height: 30%;
-	width: 33%;
+	height: 200px;
+	width: 320px;
 	display: inline-block;
 	position: right;
 }
 iframe {
-	height: 5%;
-	width: 100%;
+	height: 30px;
+	width: 1000px;
 	border: none;
 	background-color: #4169E1;
 }
